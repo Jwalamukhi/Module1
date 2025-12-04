@@ -16,8 +16,8 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-Developed by: Preethi J
-Rgister no: 212223220080
+Developed by: Jwalamukhi S
+Rgister no: 212223040079
 
 ```
 
