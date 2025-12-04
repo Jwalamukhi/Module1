@@ -13,8 +13,8 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 ```
-Developed by: Preethi J
-Register by: 212223220080
+Developed by: Jwalamukhi S
+Register by: 212223040079
 ```
 
 ```
