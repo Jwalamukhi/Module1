@@ -13,8 +13,8 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 ```
-Developed by: Preethi J
-Register no: 212223220080
+Developed by: Jwalamukhi S
+Register no: 212223040079
 ```
 
 ```
